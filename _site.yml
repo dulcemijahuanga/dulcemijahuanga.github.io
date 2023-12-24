@@ -16,7 +16,7 @@ navbar:
       href: https://www.linkedin.com/in/dulce-arleth-mijahuanga-farf%C3%A1n/
 output:
   html_document:
-    theme: journal
+    remote_theme: pages-themes/cayman@v0.2.0
     include:
       after_body: footer.html
     css: 'styles.css'
