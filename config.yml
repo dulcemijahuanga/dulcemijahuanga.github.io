@@ -1,5 +1,23 @@
-title: Dinky theme
-description: 
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-dinky
+name: "Dulce Mijahuanga Farfán"
+output_dir: "."
+navbar:
+  title: "Dulce Mijahuanga Farfán"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "CV"
+      href: cv.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:dulce.mijahuanga@gmail.com
+    - icon: fa-github fa-lg
+      href: https://github.com/dulcemijahuanga
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/dulce-arleth-mijahuanga-farf%C3%A1n/
+output:
+  html_document:
+    theme: jekyll-theme-dinky
+    include:
+      after_body: footer.html
+    css: 'styles.css'
+
