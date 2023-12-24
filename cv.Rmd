@@ -1,0 +1,33 @@
+---
+title: "CV"
+---
+
+
+### Education
+
+B.A. in Economics – Universidad de Piura, Peru (2021)
+
+### Experience
+
+Research assistant - Universidad de Piura (2020 – Present)
+
+Teaching assistant – Universidad de Piura (2019 – 2023)
+
+ - Macroeconometrics
+ - Equilibrium and Market Power (Intermediate Microeconomics)
+ - Economical Optimization
+ - Growth and Fluctuations (Intermediate Macroeconomics)
+
+### Work in Progress
+
+The complementarity of Village Savings and Loans Associations (VSLA) and entrepreneurship projects for the socioeconomic development of households in Cura Mori. *(with C. Maraví and S. Navarro)*
+
+### Seminars
+
+Presenter at 8th Congress of the Peruvian Economic Association.
+
+### Skills
+
+ - Software: Stata, Python, RStudio, LATEX, and MATLAB.
+ - Languages: Spanish (native). English (advanced). French (basic).
+ 

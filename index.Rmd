@@ -1,0 +1,40 @@
+---
+title: "Dulce Mijahuanga Farfán"
+---
+
+<!-- If you are using this code as a reference for your own website, please DO NOT COPY the previous part. That commands are aimed to allow Google Analytics to analize the visits to my webpage. You can generate yours free in Google Analytics  webpage.-->
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<!-- Add icon library
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ -->
+
+---
+
+<div class = "row">
+
+
+  
+<div class = "col-md-8" align="justify">
+
+I am a Research Assistant at Universidad de Piura (Peru). I hold a Bachelor's degree in Economics from said university. My main interests are development and political economics. Currently, I am engaged in several research endeavors, providing assistance to diverse projects within the fields of agriculture, microfinance, gender violence, and labor.
+
+
+You can contact me at [dulce.mijahuanga@gmail.com](mailto:dulce.mijahuanga@gmail.com)
+</div>
+
+<div class = "col-md-4" align="center">
+
+<img src="foto_dulce.png" style="width:50%; border:0px solid; margin-right: 20px" align="center">
+
+
+<p style="text-align: center;">
+    <a href="mailto:dulce.mijahuanga@gmail.com" class="fa fa-envelope"></a>
+    <a href="https://www.linkedin.com/in/dulce-arleth-mijahuanga-farf%C3%A1n/" class="fa fa-linkedin"></a>
+    <a href="https://github.com/dulcemijahuanga" class="fa fa-github"></a>
+</p>
+
+</div>
+
+</div>
